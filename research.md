@@ -5,18 +5,18 @@ permalink: /research/
 ---
 
 #### Research Interests
-* Computer Vision using Machine Learning, esp. Deep Learning.
+* Computer Vision.
+* Applied Machine Learning (Deep Learning, Graphical Models, etc.)
+* NLP Aided Visual Learning.
 
 #### Publications and Thesis
-* Recognition of Flower Species Using Visual Vocabulary of Compound Descriptors, __Masters Thesis__, Chonnam National University, Gwangju, South Korea, 2016. [Click here to download][ms-thesis-korea]
+* S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _Under review WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241)
 
-* S. Aich and C-W. Lee, “A General Vocabulary Based Approach for Fine-Grained Object Recognition,” in Image and Video Technology -7th Paciﬁc-Rim Symposium, PSIVT 2015, Auckland, New Zealand, November 25-27, 2015, Revised Selected Papers, pp. 572–581, 2016. [Springer link][psivt-2015]  
+* S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _Accepted ICCV-CVPPP Workshop 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
 
-* A.H.M. Rubaiyat, S. Aich, T.T. Toma, A.R. Mallik and R.A. Islam, “Fast Normalized Cross-Correlation Based Retinal Recognition,” ICCIT 2014, Dhaka, Bangladesh. [Link][iccit-retina]
+* Recognition of Flower Species Using Visual Vocabulary of Compound Descriptors, __Masters Thesis__, Chonnam National University, Gwangju, South Korea, 2016. [Download][ms-thesis-korea]
 
-* S. Aich, and G.M.A. Mamun, “An Efficient Supervised Approach for Retinal Person Identification using Zernike Moments," Int. Journal of Computer Applications, vol. 81, no 7, pp. 34-37, November, 2013. [Link][ijca-retina]
-
-* H. Imtiaz, S. Aich, and S.A. Fattah, “A Novel Pre-processing Technique for Frequency Domain Palm-print Recognition," Journal of Electrical Systems, vol. 8, no 2, pp. 185-197, June, 2012. [Click here to download][jes-algeria]
+* S. Aich and C-W. Lee, “A General Vocabulary Based Approach for Fine-Grained Object Recognition,” in Image and Video Technology -7th Paciﬁc-Rim Symposium, PSIVT 2015, Auckland, New Zealand, November 25-27, 2015, Revised Selected Papers, pp. 572–581, 2016. [Link][psivt-2015], [Code](https://github.com/littleaich/psivt_2015)
 
 [ms-thesis-korea]:https://github.com/littleaich/littleaich.github.io/blob/master/articles/Thesis_MEngg_Korea.pdf
 
