@@ -10,9 +10,9 @@ permalink: /research/
 * NLP Aided Visual Learning.
 
 #### Publications and Thesis
-* S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _Under review WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241)
+* S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241), [Code](https://github.com/p2irc/deepwheat_WACV-2018)
 
-* S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _Accepted ICCV-CVPPP Workshop 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
+* S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _ICCV-CVPPP Workshop 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
 
 * Recognition of Flower Species Using Visual Vocabulary of Compound Descriptors, __Masters Thesis__, Chonnam National University, Gwangju, South Korea, 2016. [Download][ms-thesis-korea]
 
