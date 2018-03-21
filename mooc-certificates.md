@@ -4,6 +4,8 @@ title: MOOC
 permalink: /mooc-certificates/
 ---
 
+#### Links to Verified Certificates
+
 * (Coursera) Deep Learning Specialization by Andrew Ng &nbsp;
 	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C) 
 
