@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MOOC Certificates
+title: MOOC
 permalink: /mooc-certificates/
 ---
 
