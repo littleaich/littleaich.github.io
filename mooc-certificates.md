@@ -8,6 +8,7 @@ permalink: /mooc-certificates/
 
 * (Coursera) Deep Learning Specialization by Andrew Ng &nbsp;
 	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C) 
+	* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/FDLJ88KZSUUH) 
 
 * (Coursera) Machine Learning by University of Washington
 	* [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/MN2PWZ9T36K8)
@@ -26,7 +27,7 @@ permalink: /mooc-certificates/
 	* [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/records/SGVMEBYF2DHW)
 	* [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/records/M9MSJ48SNECK)
 
-* [(Stanford Online) Statistical Learning}](https://prod-cert-bucket.s3.amazonaws.com/downloads/c9bd0b1d3d2c45f9834980f782fbddca/Statement.pdf)
+* [(Stanford Online) Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/c9bd0b1d3d2c45f9834980f782fbddca/Statement.pdf)
 
 * [(Coursera) Synapses, Neurons and Brains by Hebrew University of Jerusalem](https://www.coursera.org/account/accomplishments/records/URE37VKRTHRL)
 

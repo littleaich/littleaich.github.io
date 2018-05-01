@@ -10,6 +10,10 @@ permalink: /research/
 * NLP Aided Visual Learning.
 
 #### Publications and Thesis
+* S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _Under review (DeepGlobe CVPR-Workshop 2018)_.
+
+* S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation,” _Under review (ECCV 2018)_. [ArXiv](https://arxiv.org/abs/1803.05494)
+
 * S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241), [Code](https://github.com/p2irc/deepwheat_WACV-2018)
 
 * S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _ICCV-CVPPP Workshop 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
