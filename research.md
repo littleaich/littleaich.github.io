@@ -10,9 +10,13 @@ permalink: /research/
 * NLP Aided Visual Learning.
 
 #### Publications and Thesis
-* S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _Under review (DeepGlobe CVPR-Workshop 2018)_.
+* S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “MSNet,” _Under review (CVPR 2019)_.
 
-* S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation,” _Under review (ECCV 2018)_. [ArXiv](https://arxiv.org/abs/1803.05494)
+* S. Aich, and I. Stavness. “Object Counting with Small Datasets of Large Images.” [ArXiv](https://arxiv.org/abs/1805.11123)
+
+* S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _CVPR-DeepGlobe Workshop 2018_. [ArXiv](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Aich_Semantic_Binary_Segmentation_CVPR_2018_paper.pdf), [Code](https://github.com/littleaich/deepglobe2018)
+
+* S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation.” [ArXiv](https://arxiv.org/abs/1803.05494), [Code](https://github.com/littleaich/heatmap-regulation)
 
 * S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241), [Code](https://github.com/p2irc/deepwheat_WACV-2018)
 
