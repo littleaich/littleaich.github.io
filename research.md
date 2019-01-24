@@ -8,6 +8,7 @@ permalink: /research/
 * Computer Vision.
 * Applied Machine Learning (Deep Learning, Graphical Models, etc.)
 * NLP Aided Visual Learning.
+* Artificial General Intelligence.
 
 #### Publications and Thesis
 * S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “MSNet,” _Under review (CVPR 2019)_.
