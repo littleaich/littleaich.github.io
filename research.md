@@ -12,7 +12,7 @@ permalink: /research/
 * Artificial General Intelligence.
 
 #### Publications and Thesis
-* S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “MSNet,” _Under review (CVPR 2019)_.
+* S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “MSNet,” _Under review (ICCV 2019)_.
 
 * Object Counting with Deep Learning, __Masters Thesis__, University of Saskatchewan, Saskatoon, SK, Canada, 2019. [Download][ms-thesis-canada] 
 
