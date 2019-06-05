@@ -6,9 +6,8 @@ permalink: /mooc-certificates/
 
 #### Links to Verified Certificates
 
-* (Udacity) Deep Learning NanoDegree (with PyTorch) (Ongoing)
-* (Udacity) Intro to Deep Learning with PyTorch (Ongoing)
-* (Udacity) [Deep Reinforcement Learning NanoDegree](https://graduation.udacity.com/confirm/TSJ3JPQL)
+* (Udacity) [Deep Learning NanoDegree (with PyTorch)](https://confirm.udacity.com/NAFFLPP9) 
+* (Udacity) [Deep Reinforcement Learning NanoDegree](https://confirm.udacity.com/TSJ3JPQL)
 
 * (Coursera) Deep Learning Specialization by Andrew Ng &nbsp;
 	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C) 
