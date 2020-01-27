@@ -12,13 +12,15 @@ permalink: /research/
 * Artificial General Intelligence.
 
 #### Publications and Thesis
-* S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “MSNet,” _Under review (ICCV 2019)_.
+* J. Vianney, S. Aich, and B. Liu. “RefinedMPL: Refined Monocular PseudoLiDAR for 3D Object Detection in Autonomous Driving.” [ArXiv](https://arxiv.org/abs/1911.09712)
+
+* S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “Multi-Scale Weight Sharing Network for Image Recognition,” _Pattern Recognition Letters, Elsevier_. [ArXiv](https://arxiv.org/abs/2001.02816) [Link](https://www.sciencedirect.com/science/article/abs/pii/S016786552030009X)
 
 * Object Counting with Deep Learning, __Masters Thesis__, University of Saskatchewan, Saskatoon, SK, Canada, 2019. [Download][ms-thesis-canada] 
 
 * S. Aich, and I. Stavness. “Global Sum Pooling: A Generalization Trick for Object Counting with Small Datasets of Large Images,” _CVPR-Deep Vision Workshop 2019_. [ArXiv](https://arxiv.org/abs/1805.11123)
 
-* S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation,” _Under review in Pattern Recognition Letters, Elsevier_. [ArXiv](https://arxiv.org/abs/1803.05494), [Code](https://github.com/littleaich/heatmap-regulation)
+* S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation.” [ArXiv](https://arxiv.org/abs/1803.05494), [Code](https://github.com/littleaich/heatmap-regulation)
 
 * S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _CVPR-DeepGlobe Workshop 2018_. [ArXiv](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Aich_Semantic_Binary_Segmentation_CVPR_2018_paper.pdf), [Code](https://github.com/littleaich/deepglobe2018)
 
@@ -35,9 +37,3 @@ permalink: /research/
 [ms-thesis-korea]:https://github.com/littleaich/littleaich.github.io/blob/master/articles/Thesis_MEngg_Korea.pdf
 
 [psivt-2015]:https://link.springer.com/chapter/10.1007/978-3-319-29451-3_45
-
-[jes-algeria]:http://journal.esrgroups.org/jes/papers/8_2_6.pdf
-
-[ijca-retina]:http://www.ijcaonline.org/archives/volume81/number7/14028-2375
-
-[iccit-retina]:http://ieeexplore.ieee.org/document/7073086/

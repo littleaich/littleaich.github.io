@@ -6,6 +6,7 @@ permalink: /mooc-certificates/
 
 #### Links to Verified Certificates
 
+* (Udacity) [Sensor Fusion NanoDegree](https://confirm.udacity.com/FM7EPFJ6) 
 * (Udacity) [Deep Learning NanoDegree (with PyTorch)](https://confirm.udacity.com/NAFFLPP9) 
 * (Udacity) [Deep Reinforcement Learning NanoDegree](https://confirm.udacity.com/TSJ3JPQL)
 
