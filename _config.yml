@@ -16,7 +16,6 @@
 title: Shubhra Aich	
 email: s.aich.72@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I don't want to be just another brick in the wall.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: littleaich	
