@@ -6,13 +6,16 @@ permalink: /mooc-certificates/
 
 #### Links to Verified Certificates
 
-* (Udacity) [Sensor Fusion NanoDegree](https://confirm.udacity.com/FM7EPFJ6) 
-* (Udacity) [Deep Learning NanoDegree (with PyTorch)](https://confirm.udacity.com/NAFFLPP9) 
+* (Udacity) [Sensor Fusion NanoDegree](https://confirm.udacity.com/FM7EPFJ6)
+* (Udacity) [Deep Learning NanoDegree (with PyTorch)](https://confirm.udacity.com/NAFFLPP9)
 * (Udacity) [Deep Reinforcement Learning NanoDegree](https://confirm.udacity.com/TSJ3JPQL)
 
+* (edX) [Calculus 1A: Differentiation](https://courses.edx.org/certificates/c362887dae9f4a16a9742d6ea0a1e858)
+* (edX) Calculus 1B: Integration (Ongoing)
+
 * (Coursera) Deep Learning Specialization by Andrew Ng &nbsp;
-	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C) 
-	* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/MXZ98V3P6XCS) 
+	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C)
+	* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/MXZ98V3P6XCS)
 
 * (Coursera) Machine Learning by University of Washington
 	* [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/verify/ZXQVK8RXTWSR)
@@ -26,15 +29,17 @@ permalink: /mooc-certificates/
 	* [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/DVJLUG8225)
 	* [Reproducible Research](https://www.coursera.org/account/accomplishments/verify/X5LDH7VL7S)
 	* [Statistical Inference](https://www.coursera.org/account/accomplishments/verify/HPQ7F5UPPB)
-	
+
 * (Coursera) Algorithms by UC San Diego
-	* [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/Z6RYGSZWPKPP)
 	* [Data Structures](https://www.coursera.org/account/accomplishments/verify/Z4446K9MUVAP)
 	* [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/verify/UR3WMTZ8YQBD)
 
 * [(Stanford Online) Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/c9bd0b1d3d2c45f9834980f782fbddca/Statement.pdf)
 
-* [(Coursera) Synapses, Neurons and Brains by Hebrew University of Jerusalem](https://www.coursera.org/account/accomplishments/records/URE37VKRTHRL)
+* [(Coursera) Synapses, Neurons and Brains by Hebrew University of Jerusalem](https://coursera.org/share/e8d3580aeaf6230954f32ab5954838cc)
 
 * [(Coursera) Machine Learning by Andrew Ng](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972224~2334771/pdf)
 
+<!---
+* (outdated, need to pass their new version) [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/Z6RYGSZWPKPP)
+-->
