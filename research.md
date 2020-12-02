@@ -18,7 +18,7 @@ permalink: /research/
 
 * Object Counting with Deep Learning, __Masters Thesis__, University of Saskatchewan, Saskatoon, SK, Canada, 2019. [Download][ms-thesis-canada] 
 
-* S. Aich, and I. Stavness. “Global Sum Pooling: A Generalization Trick for Object Counting with Small Datasets of Large Images,” _CVPR-Deep Vision Workshop 2019_. [ArXiv](https://arxiv.org/abs/1805.11123)
+* S. Aich, and I. Stavness. “Global Sum Pooling: A Generalization Trick for Object Counting with Small Datasets of Large Images,” _CVPR Workshop (Deep Vision) 2019_. [ArXiv](https://arxiv.org/abs/1805.11123)
 
 * S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation.” [ArXiv](https://arxiv.org/abs/1803.05494), [Code](https://github.com/littleaich/heatmap-regulation)
 
