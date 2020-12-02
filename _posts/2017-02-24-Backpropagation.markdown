@@ -2,7 +2,7 @@
 layout: post
 title:  "Backpropagation"
 date:   2017-02-24 07:00:05 -0600
-categories: DeepLearning
+categories: "Deep Learning"
 ---
 -----
 <div class="fig figcenter fighighlight">
@@ -132,7 +132,7 @@ $$
 
 $$
 \begin{align*}
-w_{ds}^{l}(t) = \text{weight at iteration } t 
+w_{ds}^{l}(t) = \text{weight at iteration } t
 \end{align*}
 $$
 

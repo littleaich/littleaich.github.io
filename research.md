@@ -5,16 +5,16 @@ permalink: /research/
 ---
 
 #### Research Interests
-* Computer Vision.
-* Applied Machine Learning (Deep Learning, Graphical Models, etc.)
-* NLP Aided Visual Learning.
-* Reinfocement Learning
+* Computational and Biological Vision.
+* Psychophysics.
 * Artificial General Intelligence.
 
 #### Publications and Thesis
-* J. Vianney, S. Aich, and B. Liu. “RefinedMPL: Refined Monocular PseudoLiDAR for 3D Object Detection in Autonomous Driving.” [ArXiv](https://arxiv.org/abs/1911.09712)
+* S. Aich, J. Vianney, M. A. Islam, M. Kaur, and B. Liu. “Bidirectional Attention Network for Monocular Depth Estimation.” [ArXiv](https://arxiv.org/abs/2009.00743)
 
 * S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “Multi-Scale Weight Sharing Network for Image Recognition,” _Pattern Recognition Letters, Elsevier_. [ArXiv](https://arxiv.org/abs/2001.02816) [Link](https://www.sciencedirect.com/science/article/abs/pii/S016786552030009X)
+
+* J. Vianney, S. Aich, and B. Liu. “RefinedMPL: Refined Monocular PseudoLiDAR for 3D Object Detection in Autonomous Driving.” [ArXiv](https://arxiv.org/abs/1911.09712)
 
 * Object Counting with Deep Learning, __Masters Thesis__, University of Saskatchewan, Saskatoon, SK, Canada, 2019. [Download][ms-thesis-canada] 
 
