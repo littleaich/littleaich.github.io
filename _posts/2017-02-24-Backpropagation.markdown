@@ -2,7 +2,7 @@
 layout: post
 title:  "Backpropagation"
 date:   2017-02-24 07:00:05 -0600
-categories: Deep~Learning
+categories: <p>Deep Learning</p>
 ---
 -----
 <div class="fig figcenter fighighlight">
