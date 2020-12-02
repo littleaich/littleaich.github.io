@@ -22,15 +22,15 @@ permalink: /research/
 
 * S. Aich and I. Stavness. “Improving Object Counting with Heatmap Regulation.” [ArXiv](https://arxiv.org/abs/1803.05494), [Code](https://github.com/littleaich/heatmap-regulation)
 
-* S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _CVPR-DeepGlobe Workshop 2018_. [ArXiv](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Aich_Semantic_Binary_Segmentation_CVPR_2018_paper.pdf), [Code](https://github.com/littleaich/deepglobe2018)
+* S. Aich, W. van der Kamp, and I. Stavness. “Semantic Binary Segmentation using Convolutional Networks without Decoders,” _CVPR Workshop (DeepGlobe) 2018_. [ArXiv](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Aich_Semantic_Binary_Segmentation_CVPR_2018_paper.pdf), [Code](https://github.com/littleaich/deepglobe2018)
 
 * S. Aich, I. Ahmed, I. Obsyannikov, I. Stavness, A. Josuttes, K. Strueby, H. Sudhakar Duddu, C. Pozniak, and S. Shirtliffe. “DeepWheat: Estimating Phenotypic Traits From Images of Crops Using Deep Learning,” _WACV 2018_. [ArXiv](https://arxiv.org/abs/1710.00241), [Code](https://github.com/p2irc/deepwheat_WACV-2018)
 
-* S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _ICCV-CVPPP Workshop 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
+* S. Aich and I. Stavness, “Leaf Counting with Deep Convolutional and Deconvolutional Networks,” _ICCV Workshop (CVPPP) 2017_. [ArXiv](https://arxiv.org/abs/1708.07570), [Code](https://github.com/p2irc/leaf_count_ICCVW-2017)
 
 * Recognition of Flower Species Using Visual Vocabulary of Compound Descriptors, __Masters Thesis__, Chonnam National University, Gwangju, South Korea, 2016. [Download][ms-thesis-korea]
 
-* S. Aich and C-W. Lee, “A General Vocabulary Based Approach for Fine-Grained Object Recognition,” in Image and Video Technology -7th Paciﬁc-Rim Symposium, PSIVT 2015, Auckland, New Zealand, November 25-27, 2015, Revised Selected Papers, pp. 572–581, 2016. [Link][psivt-2015], [Code](https://github.com/littleaich/psivt_2015)
+* S. Aich and C-W. Lee, “A General Vocabulary Based Approach for Fine-Grained Object Recognition,”_PSIVT 2015_. [Link][psivt-2015], [Code](https://github.com/littleaich/psivt_2015)
 
 [ms-thesis-canada]:https://github.com/littleaich/littleaich.github.io/blob/master/articles/Thesis_MSc_Sask.pdf
 
