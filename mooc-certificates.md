@@ -12,7 +12,8 @@ permalink: /mooc-certificates/
 
 * (edX) 18.01x Single Variable Calculus by MIT
 	* [Calculus 1A: Differentiation](https://courses.edx.org/certificates/c362887dae9f4a16a9742d6ea0a1e858)
-	* Calculus 1B: Integration (Ongoing)
+	* [Calculus 1B: Integration](https://courses.edx.org/certificates/bf1db055226e48aebcd797ddec4cacc1)
+	* Calculus 1C: Coordinate Systems & Infinite Series (Ongoing)
 
 * (Coursera) Deep Learning Specialization by Andrew Ng
 	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C)
