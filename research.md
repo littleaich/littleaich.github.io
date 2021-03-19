@@ -5,12 +5,14 @@ permalink: /research/
 ---
 
 #### Research Interests
-* Computational and Biological Vision.
-* Psychophysics.
+* Computer Vision.
+* Robotics.
+* Machine Learning.
+* Reinforcement Learning.
 * Artificial General Intelligence.
 
 #### Publications and Theses
-* S. Aich, J. Vianney, M. A. Islam, M. Kaur, and B. Liu. “Bidirectional Attention Network for Monocular Depth Estimation.” [ArXiv](https://arxiv.org/abs/2009.00743)
+* S. Aich, J. Vianney, M. A. Islam, M. Kaur, and B. Liu. “Bidirectional Attention Network for Monocular Depth Estimation.” _ICRA 2021_. [ArXiv](https://arxiv.org/abs/2009.00743)
 
 * S. Aich, I. Stavness, Y. Taniguchi, and M. Yamazaki. “Multi-Scale Weight Sharing Network for Image Recognition,” _Pattern Recognition Letters, Elsevier_. [ArXiv](https://arxiv.org/abs/2001.02816) [Link](https://www.sciencedirect.com/science/article/abs/pii/S016786552030009X)
 
