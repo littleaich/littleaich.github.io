@@ -119,10 +119,12 @@ Total squared error, \\( E = \frac{1}{2} \sum_{c} \sum_{d} (a_{d}^{L} - y_{d})^{
 
 The simplest version of the [gradient descent][gradient-descent-ng] algorithm for iterative weight updates to minimize the error \\( (E) \\) is given by the following equation.
 
+$$
 \begin{equation}
 w_{ds}^{l}(t+1) = w_{ds}^{l}(t) + \Delta w_{ds}^{l}(t) \\\
 \text{where, } \Delta w_{ds}^{l}(t) = -\eta \frac{\partial E}{\partial w_{ds}^{l}}
 \end{equation}
+$$
 
 $$
 \begin{align*}
@@ -144,24 +146,24 @@ $$
 
 Therefore, to minimize \\( E \\) by gradient descent, it is necessary to compute the partial derivative of \\( E \\) with respect to each of the weights in the network. This is simply the sum of the partial derivatives for each of the input-output pairs.
 
-Differentiating the error equation for a particular case \\( c \\) and suppressing the index c for notational simplicity gives
+Let us consider a single training example \\( c \\) and suppress the index c for notational simplicity as follows
 
+$$
 \begin{equation}
 E = \frac{1}{2} \sum_{c} \sum_{d} (a_{d}^{L} - y_{d})^{2} \\\
-E_{c} = \frac{1}{2} \sum_{d} (a_{d}^{L} - y_{d})^{2}
+E_{c} = \frac{1}{2} \sum_{d} (a_{d}^{L} - y_{d})^{2} \\\
+\text{(Suppressing index c)}\;\; E \equiv E_{c} = \frac{1}{2} \sum_{d} (a_{d}^{L} - y_{d})^{2}
 \end{equation}
-
-Suppressing c for a single training case for notational simplicity,
-
-\begin{equation}
-E \equiv E_{c} = \frac{1}{2} \sum_{d} (a_{d}^{L} - y_{d})^{2}; \hspace{2em} [L = \text{final layer}]
-\end{equation}
+$$
 
 We know,
+
+$$
 \begin{equation}
 a_{d}^{L} = \sigma \left ( z_{d}^{L} \right )  \\\
 z_{d}^{L} = \sum_{s}{w_{ds}^{L}a_{s}^{L-1} + b_{d}^{L}}
 \end{equation}
+$$
 
 Partial derivative w.r.t. the weights and biases in the final layer (\\( L \\)) can be determined using the chain rule.
 
