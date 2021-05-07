@@ -10,10 +10,7 @@ permalink: /mooc-certificates/
 * (Udacity) [Deep Learning NanoDegree (with PyTorch)](https://confirm.udacity.com/NAFFLPP9)
 * (Udacity) [Deep Reinforcement Learning NanoDegree](https://confirm.udacity.com/TSJ3JPQL)
 
-* (edX) 18.01x Single Variable Calculus by MIT
-	* [Calculus 1A: Differentiation](https://courses.edx.org/certificates/c362887dae9f4a16a9742d6ea0a1e858)
-	* [Calculus 1B: Integration](https://courses.edx.org/certificates/bf1db055226e48aebcd797ddec4cacc1)
-	* Calculus 1C: Coordinate Systems & Infinite Series (Ongoing)
+* (edX) [18.01x Single Variable Calculus by MIT](https://credentials.edx.org/records/programs/22a9396512104730a51b51f4df03a275/)
 
 * (Coursera) Deep Learning Specialization by Andrew Ng
 	* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/DQXVQRW3PB6C)

@@ -74,7 +74,7 @@ $$
 $$
 
 \\(
-\hspace{6em}(3 \times 1)
+\hspace{8em}(3 \times 1)
 \hspace{6em} (3 \times 4)
 \hspace{4.8em} (4 \times 1)
 \hspace{0.9em} (3 \times 1)
@@ -189,6 +189,7 @@ Now, partial derivative w.r.t. output of the penultimate layer \\( a_{s}^{L-1} \
 
 Here, the summation is over all the units in layer \\( L \\). I think this equation as the most crucial part of the whole algorithm. The reason behind such thinking will be clearer later in this note. Now, let us compute all the constituent partial derivatives on the RHS of both the equations above.
 
+$$
 \begin{equation}
 \frac{\partial E}{\partial a_{d}^{L}} = a_{d}^{L} - y_{d} \\\
 \frac{\partial a_{d}^{L}}{\partial z_{d}^{L}} = \sigma' (z_{d}^{L}) = \sigma\left (z_{d}^{L}\right ) \left ( 1 - \sigma \left (z_{d}^{L} \right ) \right )\\\
@@ -196,6 +197,7 @@ Here, the summation is over all the units in layer \\( L \\). I think this equat
 \frac{\partial z_{d}^{L}}{\partial a_{s}^{L-1}} = w_{ds}^{L}
 \label{eq:pde3}
 \end{equation}
+$$
 
 We can repeat this set of computations to update the weights for successively earlier layers in the network. We are going to take a deeper look at this repeated computation shortly. At this moment, as you can see, we calculate the value of the error function by forward-propagating the values from the input layer towards the output layer. On the other hand, the learning algorithm works by adjusting the weights in each iteration by propagating the error from the output layer towards the input layer backward. This is the reason the algorithm is called __backpropagation__ (or, backward-propagation).
 
@@ -204,6 +206,7 @@ We can repeat this set of computations to update the weights for successively ea
 
 We have already seen the basic steps of backpropagation algorithm through the output layer (\\(L\\)) and its penultimate layer (\\(L-1\\)). There are some common terms in the equations (equations \ref{eq:pde1}, \ref{eq:pde2}, and \ref{eq:pde3}) of the algorithm. It would be easier to follow and implement the algorithm if we can separate the common terms in these equations from the others and thus make these equations appear simplified as well as more generalized over the layers. To do this, let us start by rewriting equations \ref{eq:pde1} and \ref{eq:pde2} for any layer \\(l\\) again below.
 
+$$
 \begin{equation}
 \frac{\partial E}{\partial w_{ds}^{l}} =
 \left ( \frac{\partial E}{\partial a_{d}^{l}} \;
@@ -230,10 +233,12 @@ We have already seen the basic steps of backpropagation algorithm through the ou
 = \frac{\partial E}{\partial z_{d}^{l}}
 \label{eq:pde_mat1}
 \end{equation}
+$$
 
 So, we finally get the following set of equations.
 
-\begin{equation}
+$$
+\begin{align}
 \delta_{d}^{l}
 = \frac{\partial E}{\partial z_{d}^{l}} =
 \frac{\partial E}{\partial a_{d}^{l}} \;
@@ -249,7 +254,8 @@ So, we finally get the following set of equations.
 \delta_{d}^{l} \;  
 \frac{\partial z_{d}^{l}}{\partial a_{s}^{l-1}} \\\
 \label{eq:backprop-single}
-\end{equation}
+\end{align}
+$$
 
 Here, \\( \frac{\partial E}{\partial a_{s}^{l-1}} \\) is needed to make the error propagate backward and thus update the weights for the earlier layers. This is the reason I think the calculation of this partial derivative the most significant computational part of the algorithm.
 
@@ -419,6 +425,7 @@ $$
 
 We are done with writing the first equation of backpropagation from equations \ref{eq:backprop-single} in matrix form. Now, let us write the second equation from set \ref{eq:backprop-single} for layer 4 in the network.
 
+$$
 \begin{equation}
 \frac{\partial E}{\partial w_{ds}^{4}}
 = \delta_{d}^{4} \;  
@@ -437,6 +444,7 @@ We are done with writing the first equation of backpropagation from equations \r
 \frac{\partial z_{4}^{4}}{\partial w_{4s}^{4}}
 \label{eq:bp2-mat1}
 \end{equation}
+$$
 
 There are 3 units in layer \\((l-1) = 3\\). So, if we expand the above set of equations over \\( s \in \\{1,2,3\\} \\), we get
 
@@ -517,6 +525,8 @@ $$
 $$
 
 From equations \ref{eq:backprop-single}, we know,
+
+$$
 \begin{equation}
 z_{d}^{l} = \sum_{s} w_{ds}^{l} a_{s}^{l-1} + b_{d}^{l} \\\
 \text{So,} \hspace{1em} \frac{\partial z_{d}^{l}}{\partial w_{ds}^{l}} = a_{s}^{l-1}
@@ -526,6 +536,7 @@ z_{d}^{l} = \sum_{s} w_{ds}^{l} a_{s}^{l-1} + b_{d}^{l} \\\
 \frac{\partial z_{d}^{l}}{\partial a_{s}^{l-1}} = w_{ds}^{l}
 \label{eq:z-derivative}
 \end{equation}
+$$
 
 So, we can write equation \ref{eq:bp2-mat2} as follows.
 
