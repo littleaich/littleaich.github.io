@@ -165,6 +165,7 @@ z_{d}^{L} = \sum_{s}{w_{ds}^{L}a_{s}^{L-1} + b_{d}^{L}}
 
 Partial derivative w.r.t. the weights and biases in the final layer (\\( L \\)) can be determined using the chain rule.
 
+$$
 \begin{equation}
 \frac{\partial E}{\partial w_{ds}^{L}} =
 \frac{\partial E}{\partial a_{d}^{L}} \;
@@ -176,6 +177,7 @@ Partial derivative w.r.t. the weights and biases in the final layer (\\( L \\)) 
 \frac{\partial z_{d}^{L}}{\partial b_{d}^{L}}
 \label{eq:pde1}
 \end{equation}
+$$
 
 Now, partial derivative w.r.t. output of the penultimate layer \\( a_{s}^{L-1} \\) can be written as
 
@@ -297,6 +299,7 @@ At this point, we will take a top-bottom approach using the network in figure 1.
 
 Let us begin by writing the equation for the output layer, i.e. layer 4.
 
+$$
 \begin{equation}
 \delta_{d}^{4}
 = \frac{\partial E}{\partial z_{d}^{4}} =
@@ -304,9 +307,11 @@ Let us begin by writing the equation for the output layer, i.e. layer 4.
 \frac{\partial a_{d}^{4}}{\partial z_{d}^{4}}
 \label{eq:bp1-mat1}
 \end{equation}
+$$
 
 We have 4 units in layer 4. So, we can replace \\( d \\) by \\( \\{ 1, 2, 3, 4 \\} \\) to compute equation \ref{eq:bp1-mat1} for all the units in the layer as follows.
 
+$$
 \begin{equation}
 \delta_{1}^{4}
 = \frac{\partial E}{\partial z_{1}^{4}} =
@@ -326,6 +331,7 @@ We have 4 units in layer 4. So, we can replace \\( d \\) by \\( \\{ 1, 2, 3, 4 \
 \frac{\partial a_{4}^{4}}{\partial z_{4}^{4}}
 \label{eq:bp1-mat2}
 \end{equation}
+$$
 
 $$
 \text{or,}
